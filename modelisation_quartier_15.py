@@ -1,6 +1,6 @@
 ## ☆ TIPE DE CHOC ☆ ##
 
-## Modules importés (& scripts extérieurs ?) :
+## Modules importés (& scripts extérieurs ?) : Poulpie est super !
 
 import numpy as np
 import random as rd
